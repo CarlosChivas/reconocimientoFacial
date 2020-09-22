@@ -1,1 +1,8 @@
-Esto es una prueba
+School project for facial recognition
+
+For this proyecjt is necessary the libraries openCv, numpy, os and imutils.
+Its developed with python, you will also need faces videos for the training and a folder named "data" for save the faces pictures.
+
+The result will be the faces videos with a filled circle and with the person name under the face.
+
+
